@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swayam Prakash Annamalai S</h1>
-<h3 align="center">IM A FRONTEND DEVELOPER CURRENTLY FOCUSSED ON LEARNING BACKEND AND IM FROM CHENNAI,TAMILNADU</h3>
+<h3 align="center">TECH ENTHUSIAST | WEB DEV | UX/UI | GRAPHIC DESIGNER | VIDEO EDITOR</h3>
 <img align="right" width="400" src"https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">
 
 
