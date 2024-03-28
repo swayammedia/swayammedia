@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Swayam Prakash Annamalai S</h1>
-<h3 align="center">TECH ENTHUSIAST | WEB DEV | UX/UI | GRAPHIC DESIGNER | VIDEO EDITOR</h3>
+<h3 align="center">Building Digital Success For Clients | FULLSTACKDEV | UX/UI | GRAPHIC DESIGNER | VIDEO EDITOR</h3>
 <img align="right" width="400" src"https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">
 
 
 
 <p align="left"> <a href="https://twitter.com/swayam_ceo" target="blank"><img src="https://img.shields.io/twitter/follow/swayam_ceo?logo=twitter&style=for-the-badge" alt="swayam_ceo" /></a> </p>
 
-- 🌱 I’m currently learning **ReactNative,**
 
-- 📫 How to reach me **swayamsaravana@gmail.com**
+- 📫 How to reach me **swayam@wedigistudio.com**
 
-- 📄 Know about my experiences [https://swayammedia.github.io/PORTFOLIOWEB/site/](https://swayammedia.github.io/PORTFOLIOWEB/site/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
